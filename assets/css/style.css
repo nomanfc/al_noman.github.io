@@ -239,7 +239,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ffc400;}
     -o-transition: 0.3s linear; 
     transition: 0.3s linear;
 }
-.header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#15ff00;border: 1px solid #15ff00;}
+.header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#ffee00;border: 1px solid #ffee00;}
 /*.header-text-area*/
 
 /*-------------------------------------
@@ -636,7 +636,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     position:absolute;
     height:100%;
     width:100%;
-    background:rgba(31,44,108,.9);
+    background:rgba(255, 217, 0, 0.9);
     display:flex;
     align-items:center;
     text-transform: uppercase;
@@ -655,9 +655,10 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 .isotope-overlay a {
     display: inline-block;
-    color: #fff;
+    color: #000000;
     font-size: 14px;
     text-align: center;
+    font-weight: 600;
 }
 .isotope .item:hover .isotope-overlay{
     -webkit-transform:scale(1);
