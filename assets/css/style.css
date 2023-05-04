@@ -119,12 +119,12 @@ nav.navbar.bootsnav {
 /*.navbar-brand*/
 .navbar-header a.navbar-brand,.navbar-header a.navbar-brand:hover,.navbar-header a.navbar-brand:focus {
     display: inline-block;
-    color: #ffc400;
+    color: #000000;
     font-size: 30px;
     font-weight: 600;
     padding: 33px 0px 57px;
-    text-transform: uppercase;
-    font-family: 'Genos', sans-serif;
+    letter-spacing: 3px;
+    font-family: 'Parisienne';
 }
 /*.navbar-brand*/
 
@@ -387,7 +387,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 .single-progress-txt h3 {
     width: 10%;
-    color: #a606c3;
+    color: #0004ff;
     position: relative;
     top: 6px;
     left: 20px;
@@ -407,7 +407,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     margin-bottom: 37px;
 }
 .progress-bar {
-   background: #b636ff;
+   background: #ffc400;
     border-radius: 3px;
    -webkit-transition: width 1.5s ease-in-out;
    -ms-transition: width 1.5s ease-in-out;
